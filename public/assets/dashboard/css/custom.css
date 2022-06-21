@@ -1,0 +1,68 @@
+.menu-icons {
+    margin-left: auto;
+    margin-right: 0;
+    color: #686868;
+}
+.count-number {
+    position: absolute;
+    left: 60%;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #4b49ac;
+    top: -5px;
+    border: 1px solid #ffffff;
+    color: #fff;
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1px;
+}
+.radio-label-cart {
+    margin-left: 1%;
+    margin-top: 1%;
+    width: 25%;
+}
+.pay-img-cart {
+    width: 15%;
+    margin-left: 15%;
+}
+.card-bg-indigo {
+    background-color: #5941aa;
+    color: #fff;
+}
+.card-bg-indigo-light {
+    background-color: #9b93d4;
+    color: #fff;
+}
+.card-bg-red-light {
+    background-color: #f57c8d;
+    color: #fff;
+}
+.card-bg-green {
+    background-color: #2dce89;
+    color: #fff;
+}
+.btn-neutral {
+    background-color: #fff;
+    color: #273444;
+    border: 1px solid #eff2f7;
+    box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%);
+}
+.form-check {
+    position: relative;
+    display: block;
+    padding-left: 1.25rem;
+}
+.form-check-input {
+    position: absolute;
+    margin-top: 0.3rem;
+    margin-left: -1.25rem;
+}
+.form-check-label {
+    margin-bottom: 0;
+}
+.form-check .form-check-label {
+    margin-left: 0;
+}
