@@ -1,5 +1,5 @@
 # [CompetentWriter](https://competentwriter.com)
-Competent Writers online essay writing service was created to eliminate student's time which cannot come up with an interesting topic, or have no time to properly edit the text before submission and help students with their academic performance! We have gathered only the most skilled essay writers who provide original, custom papers for any educational level.
+Competent Writers online essay writing service was created to eliminate student's time which cannot come up with an interesting topic, or have no time to properly edit the text before submission and help students with their academic performance! It have gathered only the most skilled essay writers who provide original, custom papers for any educational level.
 
 ## Screenshots
 
